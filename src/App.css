@@ -1,0 +1,14 @@
+Form {
+  margin: 100px 600px 0px 100px;
+  padding: 20px;
+  background-color: blue;
+  border-radius: 3px;
+}
+Button {
+  color: aqua;
+}
+.mb-3 {
+  text-shadow: 4px;
+  color: aquamarine;
+  font-weight: bolder;
+}
